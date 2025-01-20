@@ -1,8 +1,6 @@
-Created by Divyanshu
-<<<<<<< HEAD
-changed by nandan
-=======
-Edited by Rushabh Nisty
->>>>>>> 36d733f840badd044b1b9357f47d570750b0c818
 
-again changed by nandan
+Created by Divyanshu
+
+
+
+Changed by nandan
