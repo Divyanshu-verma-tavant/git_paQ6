@@ -1,2 +1,15 @@
+
 Created by Divyanshu
+<<<<<<< HEAD
 hello world
+=======
+<<<<<<< HEAD
+Edited by Rushabh Nisty
+hello everyone i am satya
+=======
+
+
+
+Changed by nandan
+>>>>>>> 13f9faedadb36a5eaf69ef55fb1416a57592e86c
+>>>>>>> 50ceb0b77919e5daf4a3a6fc35c3e98fdb2abcfd
