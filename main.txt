@@ -12,4 +12,14 @@ hello everyone i am satya
 
 Changed by nandan
 >>>>>>> 13f9faedadb36a5eaf69ef55fb1416a57592e86c
+<<<<<<< HEAD
+
+changed by gagan 
+>>>>>>> 21f9faedadb36a5eaf69ef55fb1416a57592e86c
+
+
+changed by naveen
+>>>>>>> 51f9faedadb36a5eaf69ef55fb1416a57592e86c
+=======
 >>>>>>> 50ceb0b77919e5daf4a3a6fc35c3e98fdb2abcfd
+>>>>>>> 2c1b869829a1cc78aef71e8d6494ccdb95a3bca9
